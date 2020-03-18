@@ -207,9 +207,7 @@ textarea {
   opacity: 0.5;
 }
 @media (max-width: 1150px) {
-  body {
-    background: rgba(255, 25, 255, 0.1);
-  }
+
   .container {
     margin: 0 auto;
     padding: 0 8%;
@@ -229,9 +227,7 @@ textarea {
   }
 }
 @media (max-width: 767px) {
-  body {
-    background: rgba(255, 255, 25, 0.2);
-  }
+
   .container {
     margin: 0 auto;
     padding: 0 4%;
